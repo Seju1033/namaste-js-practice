@@ -9,3 +9,9 @@
 # Practice-2
   Scope chain in JavaScript
   Undefined and not Defined 
+
+# Practice 3
+  letHoisting
+
+# Practice 4
+  even Odd
